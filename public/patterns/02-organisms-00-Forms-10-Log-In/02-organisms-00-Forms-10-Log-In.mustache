@@ -1,0 +1,30 @@
+<!-- padding for Patternlab templates ONLY -->
+<style>
+  body {
+    padding-top: 0;
+  }
+</style>
+<!-- header -->
+<header class="header-wrapper">
+  {{> molecules-universal-nav-signed-in }} {{> molecules-main-menu }}
+</header>
+<!-- end header -->
+
+
+<div class="login-modal">
+  <button class="close">
+    <span class="icon-close"></span>
+  </button>
+
+  <h2>Member Log In</h2>
+
+  <div class="form-container">
+    {{> molecules-member-login }} {{> molecules-member-info }}
+  </div>
+</div>
+
+
+<!-- end multi-step form-->
+<!-- footer -->
+{{> organisms-footer }}
+<!-- end footer -->
