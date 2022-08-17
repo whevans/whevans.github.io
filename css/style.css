@@ -344,7 +344,7 @@ table tbody tr:nth-child(odd) {
 }
 /* Images */
 .hero-desktop {
-  background-image: url(http://placehold.it/640x508);
+  background-image: url();
   height: 508px;
   width: 640px;
   float: left;
@@ -352,7 +352,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-tablet-l {
-  background-image: url(http://placehold.it/480x381);
+  background-image: url();
   height: 381px;
   width: 480px;
   float: left;
@@ -360,7 +360,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-tablet-p {
-  background-image: url(http://placehold.it/384x304);
+  background-image: url();
   height: 304px;
   width: 384px;
   float: left;
@@ -368,13 +368,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-mobile {
-  background-image: url(http://placehold.it/280x223);
+  background-image: url();
   height: 223px;
   width: 280px;
   float: left;
 }
 .hero-s-desktop {
-  background-image: url(http://placehold.it/640x508);
+  background-image: url();
   height: 508px;
   width: 640px;
   float: left;
@@ -382,7 +382,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-s-tablet-l {
-  background-image: url(http://placehold.it/480x231);
+  background-image: url();
   height: 231px;
   width: 480px;
   float: left;
@@ -390,7 +390,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-s-tablet-p {
-  background-image: url(http://placehold.it/384x185);
+  background-image: url();
   height: 185px;
   width: 384px;
   float: left;
@@ -398,13 +398,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-s-mobile {
-  background-image: url(http://placehold.it/280x135);
+  background-image: url();
   height: 135px;
   width: 280px;
   float: left;
 }
 .hero-t-desktop {
-  background-image: url(http://placehold.it/640x408);
+  background-image: url();
   height: 408px;
   width: 640px;
   float: left;
@@ -412,7 +412,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-t-tablet-l {
-  background-image: url(http://placehold.it/480x306);
+  background-image: url();
   height: 306px;
   width: 480px;
   float: left;
@@ -420,7 +420,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-t-tablet-p {
-  background-image: url(http://placehold.it/384x244);
+  background-image: url();
   height: 244px;
   width: 384px;
   float: left;
@@ -428,7 +428,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-t-mobile {
-  background-image: url(http://placehold.it/280x178);
+  background-image: url();
   height: 178px;
   width: 280px;
   float: left;
@@ -459,7 +459,7 @@ table tbody tr:nth-child(odd) {
   margin-right: 10px;
 }*/
 .three-col-desktop {
-  background-image: url(http://placehold.it/355x160);
+  background-image: url();
   height: 160px;
   width: 365px;
   float: left;
@@ -467,7 +467,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .three-col-tablet-l {
-  background-image: url(http://placehold.it/267x160);
+  background-image: url();
   height: 160px;
   width: 267px;
   float: left;
@@ -475,7 +475,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .three-col-tablet-p {
-  background-image: url(http://placehold.it/277x192);
+  background-image: url();
   height: 192px;
   width: 277px;
   float: left;
@@ -483,13 +483,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .three-col-mobile {
-  background-image: url(http://placehold.it/320x140);
+  background-image: url();
   height: 140px;
   width: 320px;
   float: left;
 }
 .news-desktop {
-  background-image: url(http://placehold.it/319x160);
+  background-image: url();
   height: 160px;
   width: 319px;
   float: left;
@@ -497,7 +497,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .news-tablet-l {
-  background-image: url(http://placehold.it/239x120);
+  background-image: url();
   height: 120px;
   width: 239px;
   float: left;
@@ -505,7 +505,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .news-tablet-p {
-  background-image: url(http://placehold.it/255x168);
+  background-image: url();
   height: 168px;
   width: 255px;
   float: left;
@@ -513,13 +513,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .news-mobile {
-  background-image: url(http://placehold.it/280x141);
+  background-image: url();
   height: 141px;
   width: 280px;
   float: left;
 }
 .quote-desktop {
-  background-image: url(http://placehold.it/356x340);
+  background-image: url();
   height: 340px;
   width: 356px;
   float: left;
@@ -527,7 +527,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .quote-tablet-l {
-  background-image: url(http://placehold.it/267x256);
+  background-image: url();
   height: 256px;
   width: 267px;
   float: left;
@@ -535,7 +535,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .quote-tablet-p {
-  background-image: url(http://placehold.it/256x245);
+  background-image: url();
   height: 245px;
   width: 256px;
   float: left;
@@ -543,13 +543,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .quote-mobile {
-  background-image: url(http://placehold.it/320x200);
+  background-image: url();
   height: 200px;
   width: 300px;
   float: left;
 }
 .fw-desktop {
-  background-image: url(http://placehold.it/570x244);
+  background-image: url();
   height: 244px;
   width: 570px;
   float: left;
@@ -557,7 +557,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .fw-tablet-l {
-  background-image: url(http://placehold.it/428x216);
+  background-image: url();
   height: 216px;
   width: 428px;
   float: left;
@@ -565,7 +565,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .fw-tablet-p {
-  background-image: url(http://placehold.it/384x185);
+  background-image: url();
   height: 185px;
   width: 384px;
   float: left;
@@ -573,13 +573,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .fw-mobile {
-  background-image: url(http://placehold.it/320x234);
+  background-image: url();
   height: 234px;
   width: 320px;
   float: left;
 }
 .profile-desktop {
-  background-image: url(http://placehold.it/250x290);
+  background-image: url();
   height: 290px;
   width: 250px;
   float: left;
@@ -587,7 +587,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .profile-tablet-l {
-  background-image: url(http://placehold.it/188x218);
+  background-image: url();
   height: 218px;
   width: 188px;
   float: left;
@@ -595,7 +595,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .profile-tablet-p {
-  background-image: url(http://placehold.it/213x248);
+  background-image: url();
   height: 248px;
   width: 213px;
   float: left;
@@ -603,7 +603,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .profile-mobile {
-  background-image: url(http://placehold.it/132x154);
+  background-image: url();
   height: 154px;
   width: 132px;
   float: left;
