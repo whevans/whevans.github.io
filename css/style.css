@@ -344,7 +344,7 @@ table tbody tr:nth-child(odd) {
 }
 /* Images */
 .hero-desktop {
-  background-image: url();
+  background-image: none;
   height: 508px;
   width: 640px;
   float: left;
@@ -352,7 +352,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 381px;
   width: 480px;
   float: left;
@@ -360,7 +360,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 304px;
   width: 384px;
   float: left;
@@ -368,13 +368,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-mobile {
-  background-image: url();
+  background-image: none;
   height: 223px;
   width: 280px;
   float: left;
 }
 .hero-s-desktop {
-  background-image: url();
+  background-image: none;
   height: 508px;
   width: 640px;
   float: left;
@@ -382,7 +382,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-s-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 231px;
   width: 480px;
   float: left;
@@ -390,7 +390,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-s-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 185px;
   width: 384px;
   float: left;
@@ -398,13 +398,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-s-mobile {
-  background-image: url();
+  background-image: none;
   height: 135px;
   width: 280px;
   float: left;
 }
 .hero-t-desktop {
-  background-image: url();
+  background-image: none;
   height: 408px;
   width: 640px;
   float: left;
@@ -412,7 +412,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-t-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 306px;
   width: 480px;
   float: left;
@@ -420,7 +420,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-t-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 244px;
   width: 384px;
   float: left;
@@ -428,13 +428,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .hero-t-mobile {
-  background-image: url();
+  background-image: none;
   height: 178px;
   width: 280px;
   float: left;
 }
 .two-col-desktop {
-  background-image: url(https://dummyimage.com/355x160/666/fff.jpg);
+  background-image:none;
   height: 160px;
   width: 255px;
   float: left;
@@ -442,7 +442,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .two-col-tablet-l {
-  background-image: url(https://dummyimage.com/355x160/666/fff.jpg);
+  background-image:none;
   height: 160px;
   width: 255px;
   float: left;
@@ -459,7 +459,7 @@ table tbody tr:nth-child(odd) {
   margin-right: 10px;
 }*/
 .three-col-desktop {
-  background-image: url();
+  background-image: none;
   height: 160px;
   width: 365px;
   float: left;
@@ -467,7 +467,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .three-col-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 160px;
   width: 267px;
   float: left;
@@ -475,7 +475,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .three-col-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 192px;
   width: 277px;
   float: left;
@@ -483,13 +483,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .three-col-mobile {
-  background-image: url();
+  background-image: none;
   height: 140px;
   width: 320px;
   float: left;
 }
 .news-desktop {
-  background-image: url();
+  background-image: none;
   height: 160px;
   width: 319px;
   float: left;
@@ -497,7 +497,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .news-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 120px;
   width: 239px;
   float: left;
@@ -505,7 +505,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .news-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 168px;
   width: 255px;
   float: left;
@@ -513,13 +513,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .news-mobile {
-  background-image: url();
+  background-image: none;
   height: 141px;
   width: 280px;
   float: left;
 }
 .quote-desktop {
-  background-image: url();
+  background-image: none;
   height: 340px;
   width: 356px;
   float: left;
@@ -527,7 +527,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .quote-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 256px;
   width: 267px;
   float: left;
@@ -535,7 +535,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .quote-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 245px;
   width: 256px;
   float: left;
@@ -543,13 +543,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .quote-mobile {
-  background-image: url();
+  background-image: none;
   height: 200px;
   width: 300px;
   float: left;
 }
 .fw-desktop {
-  background-image: url();
+  background-image: none;
   height: 244px;
   width: 570px;
   float: left;
@@ -557,7 +557,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .fw-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 216px;
   width: 428px;
   float: left;
@@ -565,7 +565,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .fw-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 185px;
   width: 384px;
   float: left;
@@ -573,13 +573,13 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .fw-mobile {
-  background-image: url();
+  background-image: none;
   height: 234px;
   width: 320px;
   float: left;
 }
 .profile-desktop {
-  background-image: url();
+  background-image: none;
   height: 290px;
   width: 250px;
   float: left;
@@ -587,7 +587,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .profile-tablet-l {
-  background-image: url();
+  background-image: none;
   height: 218px;
   width: 188px;
   float: left;
@@ -595,7 +595,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .profile-tablet-p {
-  background-image: url();
+  background-image: none;
   height: 248px;
   width: 213px;
   float: left;
@@ -603,7 +603,7 @@ table tbody tr:nth-child(odd) {
   margin-bottom: 10px;
 }
 .profile-mobile {
-  background-image: url();
+  background-image: none;
   height: 154px;
   width: 132px;
   float: left;
