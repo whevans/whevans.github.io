@@ -1,6 +1,0 @@
-cd Desktop/AAN.PatternLab
-node_modules/gulp/bin/gulp.js patternlab:serve
-
-
-svn login:
-https://cvs.dom.aan.com/svn/apps.aan.com
