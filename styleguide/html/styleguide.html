@@ -10433,7 +10433,7 @@ body {padding-top: 0;}
       var cb = '1660577844984';
       var js = [];
       if (typeof document !== 'undefined' && !('classList' in document.documentElement)) {
-        js.push('styleguide/bower_components/classList.min.js');
+        js.push('styleguide/bower_components/output.min');
       }
       scriptLoader.run(js,cb,'pl-js-polyfill-insert');
     }
@@ -10444,7 +10444,7 @@ body {padding-top: 0;}
   (function() {
     if (self != top) {
       var cb = '1660577844984';
-      var js = [ { 'src': 'styleguide/bower_components/jwerty.min.js', 'dep': [ 'styleguide/js/patternlab-pattern.min.js' ] } ];
+      var js = [ { 'src': 'styleguide/bower_components/output.min', 'dep': [ 'styleguide/js/output.min' ] } ];
       scriptLoader.run(js,cb,'pl-js-insert');
     }
   })();
